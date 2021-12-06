@@ -1,0 +1,16 @@
+.coins .coins__button-plans {
+	height: 40px;
+	width: 20%;
+	font-weight: 700;
+	font-size: 1.6rem;
+	padding-top: 8px;
+}
+.card-list__cards-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-evenly;
+	width: 90%;
+	height: 400px;
+}

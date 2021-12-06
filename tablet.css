@@ -1,0 +1,154 @@
+.landing-header__logo {
+	width: 250px;
+}
+
+.landing-header__logo h3 {
+	font-size: 3.4rem;
+}
+.landing-header__logo img {
+	width: 5.75rem;
+	height: 4.4rem;
+}
+
+.landing-header__title {
+	font-size: 3.4rem;
+	line-height: 3.6rem;
+}
+
+.landng-header__desc {
+	font-size: 1.8rem;
+	line-height: 2.8rem;
+}
+
+.coins {
+	height: auto;
+}
+.coins .coins__button-plans {
+	height: 40px;
+	width: 40%;
+	font-weight: 700;
+	font-size: 1.8rem;
+	padding-top: 8px;
+}
+
+.coins__info h2 {
+	font-size: 2.8rem;
+	line-height: 2.6rem;
+}
+
+.coins__info p {
+	font-weight: 500;
+	font-size: 1.6rem;
+}
+
+.coins__slider1,
+.coins__slider2 {
+	height: 330px;
+}
+
+.coins__slider1 p {
+	font-size: 2.3rem;
+}
+
+.coins__slider2 p {
+	font-size: 2.3rem;
+}
+
+p.coins__text-info {
+	font-size: 1.4rem;
+}
+
+.coins__table1 {
+	display: grid;
+	grid-template-rows: repeat(4, 49px);
+	grid-template-columns: 121px 115px;
+	justify-content: center;
+	gap: 3px;
+}
+
+.coins__item1,
+.coins__item3,
+.coins__item5,
+.coins__item7 {
+	font-size: 1.8rem;
+}
+.coins__item2,
+.coins__item4,
+.coins__item6,
+.coins__item8 {
+	font-size: 1.6rem;
+}
+
+.coins .coins__icon {
+	width: 51px;
+	height: 34px;
+	position: absolute;
+	bottom: -1.7%;
+}
+
+.card-list__title h2 {
+	font-size: 2.6rem;
+}
+.card-list__title p {
+	font-size: 1.8rem;
+}
+.card-list__cards-container .card-list__card {
+	width: 500px;
+}
+.card-list__cards-container .card-list__card img {
+	width: 3rem;
+	height: 3rem;
+}
+
+.card-list__cards-container .card-list__card h3 {
+	font-size: 2rem;
+}
+
+.card-list__cards-container .card-list__card p {
+	font-size: 1.6rem;
+}
+
+.photo p {
+	font-size: 2.6rem;
+}
+
+.plans .plans__info h2 {
+	font-size: 2.6rem;
+}
+.plans .plans__info p {
+	font-size: 1.6rem;
+}
+
+.plans__container .plans__card h3 {
+	font-size: 1.6rem;
+}
+.plans__container .plans__card .plans__price {
+	font-size: 5.7rem;
+}
+.plans__container .plans__card .plans__price span {
+	font-size: 1.4rem;
+}
+
+.plans__container .plans__card p {
+	font-size: 1.4rem;
+}
+
+.plans__container .plans__card button {
+	font-size: 1.5rem;
+}
+
+.plans__card .plans__recommended {
+	font-size: 1.4rem;
+}
+
+footer {
+	font-size: 1.8rem;
+}
+footer div img {
+	width: 61px;
+	height: 44px;
+}
+
+footer div p {
+	font-size: 1.2rem;
+}
